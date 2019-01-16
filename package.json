@@ -1,0 +1,13 @@
+{
+	"name": "sephoraAPI",
+	"version": "0.0.1",
+	"description": "Unofficaly Sephora API to collect their specials",
+	"author": "Jorge Bautista<bautisjo@sonoma.edu>",
+	"main": "index.js",
+	"dependencies": {
+		"express": "^4.16.4",
+		"local": "^0.3.3",
+		"puppeteer": "^1.11.0"
+	},
+	"proxy": "http://localhost:5000/"
+}
